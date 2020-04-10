@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #faf4f4;
+}
+
+.header, .main{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.center{
+    text-align: center;
+}
+
+.header2{
+    text-align: right;
+}
+
+.header2 a{
+    margin: 15px;
+}
+
+.ejercicios{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ejercicios a{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.fot{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cronos{
+    display: flex;
+    justify-content: center;
+}
+
+.vowels{
+    color: green;
+}
+
+.cont{
+    padding: 15px;
+}
+
